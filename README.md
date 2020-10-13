@@ -27,4 +27,4 @@ Esse projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ---
 
-<p align="center">Esse código foi desenvolvido pela Meirejane para o desafio 2 da Maratona Behind the Code</p>
+<p align="center">Esse código foi desenvolvido pela Meirejane para o desafio 7 da Maratona Behind the Code</p>
